@@ -1,4 +1,5 @@
 # Assignment2 | Collecting Data 
+## MA Digital Humanities | Univerisity of Groningen
 
 ## Ungaretti war poems corpus
 The corpus comprises seven of the most well-known war poems by Giuseppe Ungaretti, a prominent Italian poet of the 20th century and one of the greatest representatives of the Hermetic movement. The poems are extracted from various collections published over a period of 15 years, all of which were integrated into “L’Allegria” (1931). 
