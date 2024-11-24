@@ -9,7 +9,7 @@ This corpus is intended for Italian literature scholars and enthusiasts who wish
 ### Data collection process
 The texts were manually extracted from two distinct websites, https://www.italialibri.net/opere/poesiediguerra.html (“Veglia”, “Sono una creatura”, “San Martino del Carso”, “Soldati”) and https://lasottilelineadombra.com/2018/03/05/poesie-di-guerra-ungaretti/ (“Fratelli”, “In dormiveglia”, “Pellegrinaggio”). Subsequently, the content was transferred to TextEdit and converted into plain text (.txt) file format. 
 
-### Cleaning and/or preprocessing steps
+### Cleaning and preprocessing steps
 The only text cleaning operations performed were string replacement (str.replace()) and whitespace stripping (str.strip()), in order to remove line break characters and excess whitespace. 
 As far as preprocessing steps, tokenization, lemmatization and parts-of-speech tagging were performed using spaCy. 
 
@@ -25,7 +25,7 @@ The CSV file contains the following columns:
 | Filename       | The original .txt file name                                                                |
 | Title          | The poem’s title                                                                           |
 | Author         | The author of the poem                                                                     |
-| Collection     | The collection in which the poem was first published and the one that includes all of them |
+| Collection     | The collection where the poem was first published and the one that includes all of them |
 | Year           | Years of the collections’ publication                                                      |
 | Document       | The original, unprocessed, text                                                            |
 | Text           | The full cleaned text                                                                      |
