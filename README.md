@@ -19,7 +19,7 @@ At the end of the code execution, the dataset was saved in a CSV format.
 ## CSV file description 
 The CSV file contains the following columns: 
 
-| Variabl  name | Description |
+| Variable name | Description |
 | -------------- | ------------------------------------------------------------------------------------------- |
 | Filename       | The original .txt file name                                                                 |
 | Title          | The poem’s title                                                                            |
