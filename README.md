@@ -20,16 +20,16 @@ At the end of the code execution, the dataset was saved in a CSV format.
 The CSV file contains the following columns: 
 
 | Variable name | Description |
-| -------------- | ------------------------------------------------------------------------------------------- |
-| Filename       | The original .txt file name                                                                 |
-| Title          | The poem’s title                                                                            |
-| Author         | The author of the poem                                                                      |
-| Collection     | The collections in which the poem was first published and the one that includes all of them |
-| Year           | Years of the collections’ publication                                                       |
-| Document       | The original, unprocessed, text                                                             |
-| Text           | The full cleaned text                                                                       |
-| Tokens         | Individual words of each poem                                                               |
-| Lemmas         | Base form of each token                                                                     |
-| POS            | Parts-of-speech tags categorizing each word                                                 |
-| Named_Entities | Named entities categories                                                                   |
-| NE_Words       | The words associated with named entities                                                    |
+| -------------- | ------------------------------------------------------------------------------------------ |
+| Filename       | The original .txt file name                                                                |
+| Title          | The poem’s title                                                                           |
+| Author         | The author of the poem                                                                     |
+| Collection     | The collection in which the poem was first published and the one that includes all of them |
+| Year           | Years of the collections’ publication                                                      |
+| Document       | The original, unprocessed, text                                                            |
+| Text           | The full cleaned text                                                                      |
+| Tokens         | Individual words of each poem                                                              |
+| Lemmas         | Base form of each token                                                                    |
+| POS            | Parts-of-speech tags categorizing each word                                                |
+| Named_Entities | Named entities categories                                                                  |
+| NE_Words       | The words associated with named entities                                                   |
