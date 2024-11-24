@@ -1,4 +1,4 @@
-# CollectingData_Assignment2
+# Assignment2 | Collecting Data 
 
 ## Ungaretti war poems corpus
 The corpus comprises seven of the most well-known war poems by Giuseppe Ungaretti, a prominent Italian poet of the 20th century and one of the greatest representatives of the Hermetic movement. The poems are extracted from various collections published over a period of 15 years, all of which were integrated into “L’Allegria” (1931). 
@@ -19,15 +19,17 @@ At the end of the code execution, the dataset was saved in a CSV format.
 ## CSV file description 
 The CSV file contains the following columns: 
 
-Filename: the original .txt file name
-Title: the poem’s title
-Author: the author of the poem
-Collection: the collections in which the poem was first published and the one that includes all of them
-Year: years of the collections’ publication
-Document: the original, unprocessed, text
-Text: the full cleaned text
-Tokens: individual words of each poem
-Lemmas: base form of each token
-POS: parts-of-speech tags categorizing each word
-Named_Entities: named entities categories
-NE_Words: the words associated with named entities
+| Variabl  name | Description |
+| -------------- | ------------------------------------------------------------------------------------------- |
+| Filename       | The original .txt file name                                                                 |
+| Title          | The poem’s title                                                                            |
+| Author         | The author of the poem                                                                      |
+| Collection     | The collections in which the poem was first published and the one that includes all of them |
+| Year           | Years of the collections’ publication                                                       |
+| Document       | The original, unprocessed, text                                                             |
+| Text           | The full cleaned text                                                                       |
+| Tokens         | Individual words of each poem                                                               |
+| Lemmas         | Base form of each token                                                                     |
+| POS            | Parts-of-speech tags categorizing each word                                                 |
+| Named_Entities | Named entities categories                                                                   |
+| NE_Words       | The words associated with named entities                                                    |
